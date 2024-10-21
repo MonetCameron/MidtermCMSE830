@@ -1,6 +1,7 @@
+pip install plotly
 import streamlit as st
 import pandas as pd 
-import plotly as px
+import plotly.express as px
 #import matplotlib.pylot as plt
 import math 
 
