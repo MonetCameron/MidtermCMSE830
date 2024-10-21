@@ -1,0 +1,6 @@
+streamlit
+numpy
+seaborn
+plotly
+matplotlib
+sckit-learn
