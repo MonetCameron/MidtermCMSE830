@@ -1,6 +1,6 @@
 streamlit
 numpy
 seaborn
-plotly == 5.17.0
+plotly
 matplotlib
-sckit-learn
+scikit-learn
